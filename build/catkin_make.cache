@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/masazumi/ros_excercise/devel -DCMAKE_INSTALL_PREFIX=/home/masazumi/ros_excercise/install -G Unix Makefiles
